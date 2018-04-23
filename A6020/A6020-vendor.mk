@@ -114,7 +114,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/A6020/proprietary/vendor/etc/sound_trigger_mixer_paths.xml:system/vendor/etc/sound_trigger_mixer_paths.xml \
     vendor/lenovo/A6020/proprietary/vendor/etc/wifi/WCNSS_qcom_cfg.ini:system/vendor/etc/wifi/WCNSS_qcom_cfg.ini \
     vendor/lenovo/A6020/proprietary/vendor/etc/xtwifi.conf:system/vendor/etc/xtwifi.conf \
-    vendor/lenovo/A6020/proprietary/lib/hw/camera.vendor.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
     vendor/lenovo/A6020/proprietary/lib/hw/keystore.default.so:system/lib/hw/keystore.default.so \
     vendor/lenovo/A6020/proprietary/lib/hw/keystore.qcom.so:system/lib/hw/keystore.qcom.so \
     vendor/lenovo/A6020/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
@@ -124,11 +123,8 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/A6020/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
     vendor/lenovo/A6020/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lenovo/A6020/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/lenovo/A6020/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
-    vendor/lenovo/A6020/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/lenovo/A6020/proprietary/lib/libmpbase.so:system/lib/libmpbase.so \
     vendor/lenovo/A6020/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
-    vendor/lenovo/A6020/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/lenovo/A6020/proprietary/lib64/hw/keystore.default.so:system/lib64/hw/keystore.default.so \
     vendor/lenovo/A6020/proprietary/lib64/hw/keystore.qcom.so:system/lib64/hw/keystore.qcom.so \
     vendor/lenovo/A6020/proprietary/lib64/hw/sensors.msm8916.so:system/lib64/hw/sensors.msm8916.so \
